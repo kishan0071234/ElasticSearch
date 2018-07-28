@@ -1,0 +1,33 @@
+[2018-05-29T22:12:49,317][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-05-29T22:12:49,359][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-05-29T22:12:49,394][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-05-29T22:12:49,394][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-06-05T01:40:18,954][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-06-05T01:40:18,972][WARN ][o.e.d.i.m.MapperService  ] [_default_] mapping is deprecated since it is not useful anymore now that indexes cannot have more than one type
+[2018-07-08T21:57:21,307][WARN ][o.e.d.s.a.MultiBucketConsumerService] This aggregation creates too many buckets (10001) and will throw an error in future versions. You should update the [search.max_buckets] cluster setting or use the [composite] aggregation to paginate all buckets in multiple requests.
+[2018-07-08T21:57:30,969][WARN ][o.e.d.s.a.MultiBucketConsumerService] This aggregation creates too many buckets (10001) and will throw an error in future versions. You should update the [search.max_buckets] cluster setting or use the [composite] aggregation to paginate all buckets in multiple requests.
+[2018-07-08T22:12:46,832][WARN ][o.e.d.s.a.MultiBucketConsumerService] This aggregation creates too many buckets (10001) and will throw an error in future versions. You should update the [search.max_buckets] cluster setting or use the [composite] aggregation to paginate all buckets in multiple requests.
+[2018-07-10T01:03:37,719][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-10T01:03:56,693][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-10T01:04:03,061][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-10T01:04:04,395][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-10T01:04:04,426][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-10T01:04:04,448][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-10T01:04:04,478][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-10T01:04:05,302][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-11T03:11:43,443][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-11T03:11:46,142][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-11T03:11:47,449][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-11T03:11:47,461][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-11T03:18:04,297][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-07-11T03:18:04,329][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-07-11T03:18:04,335][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-07-11T03:18:04,345][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-07-18T14:35:39,760][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-18T14:35:42,145][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-18T14:35:43,090][WARN ][o.e.d.i.m.UidFieldMapper ] Fielddata access on the _uid field is deprecated, use _id instead
+[2018-07-18T14:35:43,110][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-07-18T14:38:14,666][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-07-18T14:38:14,666][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-07-18T14:38:14,720][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-07-18T14:38:14,725][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
